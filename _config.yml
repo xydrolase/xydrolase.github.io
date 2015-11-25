@@ -1,0 +1,15 @@
+# Site settings
+highlighter: pygments
+
+title: Xin Yin
+author: Xin Yin
+email: xydrolase@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+    Personal Github Pages
+baseurl: / # the subpath of your site, e.g. /blog/
+url: "https://xydrolase.github.io" # the base hostname & protocol for your site
+twitter_username: xydrolase
+github_username:  xydrolase
+
+# Build settings
+markdown: kramdown
